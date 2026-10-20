@@ -1,7 +1,5 @@
 # Drone Delivery Route Optimization — Procedural Python Version
 
-This is a procedural version of the KKA IUP 2026 project. It uses **no user-defined classes, no dataclasses, and no custom objects**. Results and distance data are represented with dictionaries and ordinary lists.
-
 ## What it does
 
 - Models a closed Traveling Salesperson Problem (TSP): start at the depot, visit every delivery point once, return to the depot.
